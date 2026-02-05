@@ -1,0 +1,2 @@
+# Requires: virtual-deferral
+# (Not available on PyPI)
